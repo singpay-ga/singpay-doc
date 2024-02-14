@@ -3,7 +3,7 @@ Voici les étapes d'intégration de SingPay:
   Étape 1:    [Non démarré]       Créer un compte sur SingPay https://client.singpay.ga (Vous) 
   Etape 2:      [Non démarré]      Générer un portefeuille de test (Nous)
   Etape 3:        [Non démarré]   Tester l'API externalisation de SingPay (Vous et nous)
-  
+  modifié par moi
 Tests à réaliser
 
 Fonds insuffisant airtel money
